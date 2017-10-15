@@ -1,4 +1,4 @@
-package possuite.laverie;
+package possuite.ilabamo;
 
 import android.content.Context;
 import android.graphics.Color;

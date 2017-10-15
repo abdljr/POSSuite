@@ -1,4 +1,4 @@
-package possuite.laverie;
+package possuite.ilabamo;
 
 public class OrderLabelItems {
     private int id;
